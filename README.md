@@ -3,7 +3,13 @@
 ## Overview
 
 This Excel Dashboard provides an interactive and user-friendly interface for monitoring and analyzing key performance indicators (KPIs) and business metrics. The dashboard is designed to help users quickly identify trends, track performance, and make data-driven decisions through dynamic visualizations and automated reporting.
+## 🖥️ Project Views
 
+### Dashboard View
+![Dashboard View](Dashboard%20view%201.png)
+
+### Dataset View
+![Database View](Dataset%20view.png)
 ## Features
 
 * Interactive dashboard with charts and KPI indicators
